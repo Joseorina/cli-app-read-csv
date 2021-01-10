@@ -1,2 +1,5 @@
-# cli-app-read-csv
-Technical written exercise
+# Requirement
+- Installed NodeJS
+
+# How To Run
+- `node app.js`

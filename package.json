@@ -1,0 +1,11 @@
+{
+  "name": "cli-app-read-csv",
+  "version": "1.0.0",
+  "description": "Read CSV files and output simplified csv files",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
